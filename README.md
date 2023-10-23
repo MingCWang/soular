@@ -1,4 +1,4 @@
-# Soular - HackHarvard 2023 
+# Soular @ HackHarvard 2023 
 
 ## Problem Statement
 In an era where mental well-being is often overlooked, Soular seeks to bridge the gap between mental and physical health. Our research indicates that mental health remains a neglected global issue, specifically in the South East Asian families we come from. Journaling is a well-known remedy for this. However, Journaling is a one-way street — you write something down, but get little in return with just one likely-biased perspective, your own.
